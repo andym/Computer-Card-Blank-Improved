@@ -4,7 +4,7 @@
 
 If you've got a [Music Thing Modular workshop system](https://www.musicthing.co.uk/workshopsystem/)
 
-Download and burn [this uf2](build/computer_card_blank_improved.uf2) to your blank cards. It identifies itself by blinking the two LEDs in the bottom row 3 times when it starts up. If you hold the Z toggle switch down for 2 seconds then the workshop computer reboots into the mode where it's ready to have a new card written to it via usb.
+Download and burn [this uf2](https://github.com/andym/Computer-Card-Blank-Improved/raw/main/build/computer_card_blank_improved.uf2) to your blank cards. It identifies itself by blinking the two LEDs in the bottom row 3 times when it starts up. If you hold the Z toggle switch down for 2 seconds then the workshop computer reboots into the mode where it's ready to have a new card written to it via usb.
 
 Step by step: Plug your computer usb into the workshop computer usb. Power up the workshop. LEDs go blink blink blink. Now hold the toggle down. LEDs climb up until only the top right one is steadily on. Now a drive called RPI-RP2 should have mounted on your computer. Drag your new uf2 here.
 
