@@ -2,7 +2,7 @@
 
 ## TLDR
 
-If you've got one of [these](https://www.musicthing.co.uk/workshopsystem/)
+If you've got a [Music Thing Modular workshop system](https://www.musicthing.co.uk/workshopsystem/)
 
 Download and burn [this uf2](build/computer_card_blank_improved.uf2) to your blank cards. It identifies itself by blinking the two LEDs in the bottom row 3 times when it starts up and if you hold the Z toggle switch down for 2 second then the workshop computer reboots into the mode where it's ready to have a new card written to it via usb.
 
